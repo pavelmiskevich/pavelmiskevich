@@ -42,14 +42,12 @@
 
 <br />
 
-<div align="center">
-  <!-- Карточка статистики с неоновой темой synthwave -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pavelmiskevich&show_icons=true&theme=synthwave&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=a9b1d6&bg_color=1a1b26" alt="GitHub Stats" />
-</div>
+### ⚡ Terminal
 
 <div align="center">
-  <!-- Карточка используемых языков -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelmiskevich&layout=compact&theme=synthwave&hide_border=true&title_color=00f2fe&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Lead+Software+Engineer;Building+High-Load+Microservices;Configuring+Local+AI+Agents;>_+" alt="Typing SVG" />
+  </a>
 </div>
 
 <br />
