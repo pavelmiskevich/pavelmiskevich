@@ -41,16 +41,15 @@
 ![Hermes](https://img.shields.io/badge/Hermes-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 <br />
-
+<!--
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <!-- Теперь картинка грузится прямо из твоего репозитория, она никогда не сломается -->
   <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 <br />
-
+-->
 ### ⚡ Terminal
 
 <div align="center">
