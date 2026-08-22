@@ -1,6 +1,6 @@
 <!-- Баннер -->
 <div align="center">
-  <img src="Gemini_Generated_Image_8zfdg78zfdg78zfd.jpg" alt="Cyberpunk Header Banner" width="100%" />
+  <img src="Gemini_Generated_Image_nyt4b8nyt4b8nyt4.jpg" alt="Cyberpunk Header Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi there, I'm Pavel! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
