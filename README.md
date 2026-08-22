@@ -53,9 +53,13 @@
 
 ### ⚡ GitHub Activity
 
+<div>
+
 <img src="https://img.shields.io/badge/Main_Language-C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=black" />
 <img src="https://img.shields.io/badge/Architecture-Microservices-00f2fe?style=for-the-badge&logo=codeforces&logoColor=black" />
 <img src="https://img.shields.io/badge/AI_Workflows-Autonomous_Agents-D97757?style=for-the-badge&logo=anthropic&logoColor=black" />
+
+</div>
 
 <br />
 
