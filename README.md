@@ -51,6 +51,18 @@
 <br />
 -->
 
+### ⚡ GitHub Activity
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Main_Language-C%23_.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices-00f2fe?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-Autonomous_Agents-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+</div>
+
+<br />
+
 ### ⚡ Terminal
 
 <div align="center">
